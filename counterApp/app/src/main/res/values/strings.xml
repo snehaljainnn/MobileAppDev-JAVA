@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CounterApp</string>
+    <string name="b1">Increase</string>
+    <string name="b2">Decrease</string>
+    <string name="b3">Reset</string>
+    <string name="m1">Made by Snehal Jain</string>
+</resources>
