@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="m1">Snehal</string>
+    <string name="m2">Shubh</string>
+    <string name="m3">Arpita</string>
+    <string name="m4">Aliya</string>
+    <string name="m5">Srishti</string>
+    <string name="m6">Charvi</string>
+    <string name="m7">tumy</string>
+    <string name="m8">jake</string>
+    <string name="m9">Sneaa</string>
+    <string name="m10">Snejuaaqa</string>
+    <string name="b1">All present</string>
+    <string name="b2">All absent</string>
+    <string name="b3">Submit</string>
+    <string name="b4">Reset</string>
+
+
+</resources>
