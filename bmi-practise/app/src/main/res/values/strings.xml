@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">bmi</string>
+    <string name="e1">Enter the weight in kgs</string>
+    <string name="e2">Enter the height in m</string>
+    <string name="t1">0</string>
+    <string name="t2"> </string>
+    <string name="b1">Calculate</string>
+    <string name="b2">Clear</string>
+    <string name="m1">Made by Snehal Jain</string>
+</resources>
