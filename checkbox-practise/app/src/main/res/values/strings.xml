@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AttendanceSystem</string>
+    <string name="t1">ATTENDANCE SYSTEM</string>
+    <string name="t2">Made by Snehal Jain</string>
+    <string name="b1">All present</string>
+    <string name="b2">All absent</string>
+    <string name="b3">Submit</string>
+    <string name="b4">Clear</string>
+    <string name="n1">A</string>
+    <string name="n2">B</string>
+    <string name="n3">C</string>
+    <string name="n4">D</string>
+    <string name="n5">E</string>
+    <string name="n6">F</string>
+    <string name="n7">G</string>
+    <string name="n8">H</string>
+    <string name="s1">Dark/Light Mode</string>
+</resources>
