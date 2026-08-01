@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">radiobutton</string>
+    <string name="m1">MBA TECH CE</string>
+    <string name="m2">Btech CE</string>
+    <string name="m3">Btech AIDS</string>
+    <string name="m4">1st Year</string>
+    <string name="m5">2nd Year</string>
+    <string name="m6">3rd Year</string>
+    <string name="b1">Submit</string>
+    <string name="b2">Clear</string>
+</resources>
